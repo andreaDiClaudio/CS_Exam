@@ -23,15 +23,18 @@ public class Program
 
         //Method chaining
         var evenSquares = numbers.Where(x => x % 2 == 0).Select(x => x * x);
+        //Pattern matching
+        object value1 = 42;
+
+        var result = value1 switch
+        {
+            int i when i > 0 => "positive integer", //type pattern - match type
+            string str => $"String with length {str.Length}", //type pattern
+            null => "null value", //type pattern
+            _ => "Unkown type" //discard pattern
+        };
     }
 
-    //Pattern matching
-    public static string GetShapeType(object shape) => shape switch
-    {
-        Circle c => "Circle",
-        Rectangle r => "Rectangle",
-        _ => "Unknown"
-    };
 
     //Lazy evaluation
     public static IEnumerable<int> GetSquares(int n)
