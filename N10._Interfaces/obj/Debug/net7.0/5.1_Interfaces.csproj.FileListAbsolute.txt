@@ -1,0 +1,15 @@
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/bin/Debug/net7.0/5.1_Interfaces
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/bin/Debug/net7.0/5.1_Interfaces.deps.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/bin/Debug/net7.0/5.1_Interfaces.runtimeconfig.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/bin/Debug/net7.0/5.1_Interfaces.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/bin/Debug/net7.0/5.1_Interfaces.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.csproj.AssemblyReference.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.AssemblyInfoInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.AssemblyInfo.cs
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.csproj.CoreCompileInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/refint/5.1_Interfaces.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/5.1_Interfaces.genruntimeconfig.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.1_Interfaces/obj/Debug/net7.0/ref/5.1_Interfaces.dll

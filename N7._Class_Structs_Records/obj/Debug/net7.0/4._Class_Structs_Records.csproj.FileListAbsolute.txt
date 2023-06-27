@@ -1,0 +1,15 @@
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.csproj.AssemblyReference.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.AssemblyInfoInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.AssemblyInfo.cs
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.csproj.CoreCompileInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/bin/Debug/net7.0/4._Class_Structs_Records
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/bin/Debug/net7.0/4._Class_Structs_Records.deps.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/bin/Debug/net7.0/4._Class_Structs_Records.runtimeconfig.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/bin/Debug/net7.0/4._Class_Structs_Records.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/bin/Debug/net7.0/4._Class_Structs_Records.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/refint/4._Class_Structs_Records.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/4._Class_Structs_Records.genruntimeconfig.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/4._Class_Structs_Records/obj/Debug/net7.0/ref/4._Class_Structs_Records.dll

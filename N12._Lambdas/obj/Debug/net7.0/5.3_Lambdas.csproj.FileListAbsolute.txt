@@ -1,0 +1,15 @@
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.csproj.AssemblyReference.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.AssemblyInfoInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.AssemblyInfo.cs
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.csproj.CoreCompileInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/bin/Debug/net7.0/5.3_Lambdas
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/bin/Debug/net7.0/5.3_Lambdas.deps.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/bin/Debug/net7.0/5.3_Lambdas.runtimeconfig.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/bin/Debug/net7.0/5.3_Lambdas.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/bin/Debug/net7.0/5.3_Lambdas.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/refint/5.3_Lambdas.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/5.3_Lambdas.genruntimeconfig.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/5._Abstractions/5.3_Lambdas/obj/Debug/net7.0/ref/5.3_Lambdas.dll

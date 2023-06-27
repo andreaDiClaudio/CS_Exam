@@ -1,0 +1,15 @@
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/bin/Debug/net7.0/3.1._Generics
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/bin/Debug/net7.0/3.1._Generics.deps.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/bin/Debug/net7.0/3.1._Generics.runtimeconfig.json
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/bin/Debug/net7.0/3.1._Generics.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/bin/Debug/net7.0/3.1._Generics.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.csproj.AssemblyReference.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.AssemblyInfoInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.AssemblyInfo.cs
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.csproj.CoreCompileInputs.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/refint/3.1._Generics.dll
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.pdb
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/3.1._Generics.genruntimeconfig.cache
+/Users/andrea/Desktop/Kea_Computer_Science/C#/Exam/code/3._Arrays_&_Generics/3.1._Generics/obj/Debug/net7.0/ref/3.1._Generics.dll
